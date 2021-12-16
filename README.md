@@ -1,6 +1,4 @@
-# mori
-
-<img src="http://cloud.github.com/downloads/swannodette/mori/mori.png" alt="Mori" title="Mori"/>
+# 木の Kino (_formerly Mori_)
 
 A simple bridge to ClojureScript's persistent data structures and
 [supporting APIs](http://swannodette.github.io/mori/) for vanilla
