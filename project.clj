@@ -1,10 +1,10 @@
 (defproject mori "0.5.0-SNAPSHOT"
   :description "Persistent Data Structures for JavaScript"
 
-  :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.clojure/clojurescript "0.0-3308" :classifier "aot"]]
+  :dependencies [[org.clojure/clojure "1.10.3"]
+                 [org.clojure/clojurescript "1.10.896"]]
 
-  :plugins [[lein-cljsbuild "1.0.5"]]
+  :plugins [[lein-cljsbuild "1.1.8"]]
 
   :clean-targets ["dev" "release" "target"]
   
